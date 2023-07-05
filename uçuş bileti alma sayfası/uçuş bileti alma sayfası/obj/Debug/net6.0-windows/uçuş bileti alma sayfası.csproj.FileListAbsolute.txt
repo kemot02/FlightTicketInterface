@@ -1,0 +1,18 @@
+C:\Users\katalay\source\repos\uçuş bileti alma sayfası\uçuş bileti alma sayfası\bin\Debug\net6.0-windows\uçuş bileti alma sayfası.exe
+C:\Users\katalay\source\repos\uçuş bileti alma sayfası\uçuş bileti alma sayfası\bin\Debug\net6.0-windows\uçuş bileti alma sayfası.deps.json
+C:\Users\katalay\source\repos\uçuş bileti alma sayfası\uçuş bileti alma sayfası\bin\Debug\net6.0-windows\uçuş bileti alma sayfası.runtimeconfig.json
+C:\Users\katalay\source\repos\uçuş bileti alma sayfası\uçuş bileti alma sayfası\bin\Debug\net6.0-windows\uçuş bileti alma sayfası.dll
+C:\Users\katalay\source\repos\uçuş bileti alma sayfası\uçuş bileti alma sayfası\bin\Debug\net6.0-windows\uçuş bileti alma sayfası.pdb
+C:\Users\katalay\source\repos\uçuş bileti alma sayfası\uçuş bileti alma sayfası\obj\Debug\net6.0-windows\uçuş bileti alma sayfası.csproj.AssemblyReference.cache
+C:\Users\katalay\source\repos\uçuş bileti alma sayfası\uçuş bileti alma sayfası\obj\Debug\net6.0-windows\uçuş_bileti_alma_sayfası.Form1.resources
+C:\Users\katalay\source\repos\uçuş bileti alma sayfası\uçuş bileti alma sayfası\obj\Debug\net6.0-windows\uçuş_bileti_alma_sayfası.Properties.Resources.resources
+C:\Users\katalay\source\repos\uçuş bileti alma sayfası\uçuş bileti alma sayfası\obj\Debug\net6.0-windows\uçuş bileti alma sayfası.csproj.GenerateResource.cache
+C:\Users\katalay\source\repos\uçuş bileti alma sayfası\uçuş bileti alma sayfası\obj\Debug\net6.0-windows\uçuş bileti alma sayfası.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katalay\source\repos\uçuş bileti alma sayfası\uçuş bileti alma sayfası\obj\Debug\net6.0-windows\uçuş bileti alma sayfası.AssemblyInfoInputs.cache
+C:\Users\katalay\source\repos\uçuş bileti alma sayfası\uçuş bileti alma sayfası\obj\Debug\net6.0-windows\uçuş bileti alma sayfası.AssemblyInfo.cs
+C:\Users\katalay\source\repos\uçuş bileti alma sayfası\uçuş bileti alma sayfası\obj\Debug\net6.0-windows\uçuş bileti alma sayfası.csproj.CoreCompileInputs.cache
+C:\Users\katalay\source\repos\uçuş bileti alma sayfası\uçuş bileti alma sayfası\obj\Debug\net6.0-windows\uçuş bileti alma sayfası.dll
+C:\Users\katalay\source\repos\uçuş bileti alma sayfası\uçuş bileti alma sayfası\obj\Debug\net6.0-windows\refint\uçuş bileti alma sayfası.dll
+C:\Users\katalay\source\repos\uçuş bileti alma sayfası\uçuş bileti alma sayfası\obj\Debug\net6.0-windows\uçuş bileti alma sayfası.pdb
+C:\Users\katalay\source\repos\uçuş bileti alma sayfası\uçuş bileti alma sayfası\obj\Debug\net6.0-windows\uçuş bileti alma sayfası.genruntimeconfig.cache
+C:\Users\katalay\source\repos\uçuş bileti alma sayfası\uçuş bileti alma sayfası\obj\Debug\net6.0-windows\ref\uçuş bileti alma sayfası.dll
